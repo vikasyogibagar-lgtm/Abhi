@@ -1,0 +1,9 @@
+ExpireDate exp;
+    exp.setExpirationDate(15,8,2025);//d,m,y
+    if (exp.isExpired()) {
+    //ImGui::SetNextWindowSize(ImVec2(glWidth/3.5, glHeight/1.5), ImGuiCond_FirstUseEver);
+    ImGui::Begin(OBFUSCATE("MODS MENU EXPIRED️"));
+
+  ImGui::Text(OBFUSCATE("B-TIK MODS V1));
+    OpenURL(Il2CppString::Create("https://https://t.me/+GWJ0mJ09IH1hOWVl"));
+}
